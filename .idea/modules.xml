@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bigData.iml" filepath="$PROJECT_DIR$/bigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-akka/example-akka.iml" filepath="$PROJECT_DIR$/example-akka/example-akka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-hdfs/example-hdfs.iml" filepath="$PROJECT_DIR$/example-hdfs/example-hdfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-hive/example-hive.iml" filepath="$PROJECT_DIR$/example-hive/example-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-mapreduce/example-mapreduce.iml" filepath="$PROJECT_DIR$/example-mapreduce/example-mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-spark/example-spark.iml" filepath="$PROJECT_DIR$/example-spark/example-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-zookeeper/example-zookeeper.iml" filepath="$PROJECT_DIR$/example-zookeeper/example-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-spark/src/main/main.iml" filepath="$PROJECT_DIR$/example-spark/src/main/main.iml" />
+    </modules>
+  </component>
+</project>
